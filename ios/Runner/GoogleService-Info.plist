@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>281443164478-oeho50n8e8v9qg9qet2lgrbi9hfvb855.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.281443164478-oeho50n8e8v9qg9qet2lgrbi9hfvb855</string>
+	<key>API_KEY</key>
+	<string>AIzaSyArYReJLLCj5l9hbSGO_dKG7kMV1IAkMoM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>281443164478</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.bwallet</string>
+	<key>PROJECT_ID</key>
+	<string>beepay-9f7e6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>beepay-9f7e6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:281443164478:ios:6e18377281e69b9b7d8c6f</string>
+</dict>
+</plist>
