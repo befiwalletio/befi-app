@@ -3,7 +3,7 @@
 
 -[about Google shuttle]（ https://flutter.io/ )。
 
-# 说明
+# explain
 1.Beefinance's mission is to link mainstream finance and cryptofinance.
 On the one hand, beefinance provides a set of encrypted financial service framework and open source components for mainstream financial institutions.
 Based on beefinance, mainstream financial institutions can develop and customize their own encrypted financial services faster and more efficiently.
